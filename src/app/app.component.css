@@ -1,0 +1,23 @@
+h1 {
+  color: #5d4f28;
+}
+nav a {
+  padding: 15px 15px;
+  background-color: gray;
+  margin: 10px;
+  color: inherit;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #f5deb3;
+  background-color: #5d4f28;
+}
+
+nav a.active {
+  color: #f5deb3;
+}
+
+.container {
+  margin: 0 100px;
+}
